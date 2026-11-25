@@ -1,8 +1,8 @@
 # BÀI LÀM PHA 1 (ĐỀ LUYỆN TẬP CHỦ ĐỀ CHẠY AFFILIATE)
 
 - **Họ tên:** Trần Đức Tài 
-- **Lớp:** 
-- **Link repository :**
+- **Lớp:** HNKS26CNTT3
+- **Link repository :** https://github.com/TranDucTaiCNTT3/HNKS26CNTT3_PromptAI_H04/blob/47aaeefc7392f0d2f7d14caee3d293c63449d0f4/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
