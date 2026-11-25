@@ -2,7 +2,7 @@
 
 - **Họ tên:** Trần Đức Tài 
 - **Lớp:** HNKS26CNTT3
-- **Link repository Pha2:** 
+- **Link repository Pha2:** https://github.com/TranDucTaiCNTT3/HNKS26CNTT3_PromptAI_H04/blob/409a948fcce409a0c9fef14b1d8cb355f0d6dc23/bai_lam_pha2.md
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):** Gemini
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
